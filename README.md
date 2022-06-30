@@ -1,2 +1,2 @@
 # Python
- Alguns códigos de python 
+* Aqui irei disponibilizar alguns códigos de python. 
