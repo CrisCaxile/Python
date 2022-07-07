@@ -43,7 +43,7 @@ elif Tipo == "GASOLINA":
 elif Tipo == "ETANOL":
     Valor = 5.89
 
-Funcao = input("Prefere abaster por Litro ou por Valor? ").capitalize()
+Funcao = input("\033[1;31mPrefere abaster por Litro ou por Valor? ").capitalize()
 if Funcao == "Litro":
     QuantLitro = float(input("Qual a quantidade de Litro que deseja colocar? "))
     QuantCombustivel = QuantLitro
@@ -59,6 +59,6 @@ else:
     Objeto1.AlterarCombustivel(Tipo)
     Objeto1.AlterarQuantidadeCombustivel(QuantCombustivel)
     Objeto1.AbastecerPorValor(QuantValor)
-print("Você tem na sua bomba de combustível",Objeto1.QuantidadeCombustivel,"litros")
+print("\033[1;35mVocê tem na sua bomba de combustível",Objeto1.QuantidadeCombustivel,"litros")
 
 
