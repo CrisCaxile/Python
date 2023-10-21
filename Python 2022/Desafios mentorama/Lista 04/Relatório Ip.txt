@@ -1,0 +1,2 @@
+[Endereços válidos:]
+ <_io.TextIOWrapper name='Lista de Enderecos Ip.txt' mode='a+' encoding='utf-8'>

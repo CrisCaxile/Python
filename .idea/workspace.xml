@@ -7,6 +7,9 @@
     <list default="true" id="dcc45ff8-fd60-4b30-9a36-15affe55c182" name="Changes" comment="commit">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 2022/Desafios mentorama/Lista 04/Lista de Enderecos Ip.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python 2022/Desafios mentorama/Lista 04/Lista de Enderecos Ip.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 2022/Desafios mentorama/Lista 04/Relatório Ip.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python 2022/Desafios mentorama/Lista 04/Relatório Ip.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções/exercicioExtra.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções/exercicioExtra.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +58,8 @@
       <recent name="C:\Users\Cris\Documents\Python\Python 2023\codigos\Exercicio 107" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="Desafio 115b (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Exercicio 01">
+    <configuration name="Exercicio 01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafios CursoEmVideoPython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2022/Desafios mentorama/Lista 04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafios CursoEmVideoPython/Desafio 115b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2022/Desafios mentorama/Lista 04/Exercicio 01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,10 +208,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercicio 01" />
         <item itemvalue="Python.exercicioExtra" />
         <item itemvalue="Python.ExercicioErros" />
         <item itemvalue="Python.ExercicioListaIP (1)" />
-        <item itemvalue="Python.ExercicioListaIP" />
         <item itemvalue="Python.ExercicioListaIP" />
       </list>
     </recent_temporary>
