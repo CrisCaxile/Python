@@ -35,7 +35,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cris/Documents/Python&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Cris/Documents/Python/Python 2023/Desafios CursoEmVideoPython&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.project&quot;
   }
 }</component>
@@ -53,8 +53,8 @@
       <recent name="C:\Users\Cris\Documents\Python\Python 2023\codigos\Exercicio 107" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.extra">
-    <configuration name="Atividade6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Desafio 115b (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/DataETempo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafios CursoEmVideoPython" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/DataETempo/Atividade6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafios CursoEmVideoPython/Desafio 115b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ExercicioErros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/DataETempo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/DataETempo/Atividade7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções/ExercicioErros.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ExercicioListaIP (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/DataETempo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/DataETempo/Atividade8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções/ExercicioListaIP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Atividade9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ExercicioListaIP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/DataETempo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/DataETempo/Atividade9.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Cris\Documents\Python\Python 2023\Desafio Mentorama\ArquivosErrosExceções\ExercicioListaIP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="extra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ExercicioListaIP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +146,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/DataETempo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/DataETempo/extra.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Cris\Documents\Python\Python 2023\Desafio Mentorama\ArquivosErrosExceções\ExercicioListaIP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercicioExtra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções/exercicioExtra.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.extra" />
-        <item itemvalue="Python.Atividade9" />
-        <item itemvalue="Python.Atividade8" />
-        <item itemvalue="Python.Atividade7" />
-        <item itemvalue="Python.Atividade6" />
+        <item itemvalue="Python.exercicioExtra" />
+        <item itemvalue="Python.ExercicioErros" />
+        <item itemvalue="Python.ExercicioListaIP (1)" />
+        <item itemvalue="Python.ExercicioListaIP" />
+        <item itemvalue="Python.ExercicioListaIP" />
       </list>
     </recent_temporary>
   </component>
