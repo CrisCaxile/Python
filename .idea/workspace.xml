@@ -5,283 +5,145 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcc45ff8-fd60-4b30-9a36-15affe55c182" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Arquivo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Arquivo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 100.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 101.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 101.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 102.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 102.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 103.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 103.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 104.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 104.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 105.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 105.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 106.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 106.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 107/Desafio 107.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 107/Desafio 107.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 107/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 107/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 107/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 107/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 108/Desafio 108.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 108/Desafio 108.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 108/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 108/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 108/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 108/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 109/Desafio 109.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 109/Desafio 109.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 109/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 109/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 109/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 109/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 110/Desafio 110.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 110/Desafio 110.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 110/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 110/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 110/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 110/moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 111/Desafio 111.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/Desafio 111.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 111/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 111/utilidadesCeV/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/utilidadesCeV/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 111/utilidadesCeV/dado/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/utilidadesCeV/dado/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 111/utilidadesCeV/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/utilidadesCeV/moeda/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 112/Desafio 112.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/Desafio 112.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 112/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 112/utilidadesCeV/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/utilidadesCeV/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 112/utilidadesCeV/dado/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/utilidadesCeV/dado/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 112/utilidadesCeV/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/utilidadesCeV/moeda/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 113.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 113.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 114.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 114.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 115a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 115a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 115b.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 115b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 14.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 16.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 17.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 22.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 23.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 25.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 26.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 27.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 27.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 28.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 28.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 29.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 29.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 30.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 30.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 31.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 31.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 32.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 32.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 33.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 33.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 34.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 34.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 35.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 35.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 36.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 36.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 37.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 37.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 38.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 38.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 39.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 39.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 40.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 40.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 41.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 41.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 42.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 42.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 43.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 43.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 44.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 44.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 45.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 45.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 46.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 46.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 47.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 47.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 48.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 48.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 49.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 49.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 50.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 50.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 51.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 51.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 52.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 52.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 53.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 53.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 54.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 54.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 55.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 55.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 56.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 56.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 57.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 57.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 58.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 58.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 59.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 59.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 60.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 60.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 61.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 61.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 62.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 62.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 63.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 63.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 64.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 64.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 65.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 65.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 66.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 66.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 67.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 67.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 68.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 68.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 69.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 69.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 70.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 70.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 71.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 71.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 72.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 72.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 73.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 73.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 74.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 74.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 75.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 75.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 76.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 76.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 77.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 77.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 78.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 78.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 79.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 79.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 80.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 80.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 81.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 81.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 82.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 82.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 83.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 83.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 84.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 84.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 85.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 85.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 86.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 86.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 87.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 87.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 88.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 88.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 89.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 89.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 90.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 90.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 91.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 91.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 92.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 92.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 93.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 93.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 94.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 94.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 95.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 95.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 96.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 96.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 97.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 97.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 98.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 98.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/Desafio 99.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 99.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/SnapInsta.io - ILLENIUM - Take You Down __ Good Things Fall Apart (Nurko &amp; William Black Remix) (64 kbps).mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/SnapInsta.io - ILLENIUM - Take You Down __ Good Things Fall Apart (Nurko &amp; William Black Remix) (64 kbps).mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/UltimoDesafio/Funcionalidades/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/UltimoDesafio/Funcionalidades/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/exercicio de classe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/exercicio de classe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/temp.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/temp.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/teste" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/teste" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/Desafios CursoEmVideoPython/watchvhLRVM8h557g" beforeDir="false" afterPath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/watchvhLRVM8h557g" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 100.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 101.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 102.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 103.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 104.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 105.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 106.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 107/Desafio 107.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 107/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 107/moeda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 108/Desafio 108.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 108/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 108/moeda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 110/Desafio 110.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 110/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 110/moeda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 111/Desafio 111.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 111/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 111/utilidadesCeV/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 111/utilidadesCeV/dado/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 111/utilidadesCeV/moeda/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 112/Desafio 112.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 112/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 112/utilidadesCeV/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 112/utilidadesCeV/dado/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 112/utilidadesCeV/moeda/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 113.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 114.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 27.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 28.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 29.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 30.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 31.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 32.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 33.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 34.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 35.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 36.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 37.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 38.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 39.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 40.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 41.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 42.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 43.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 44.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 45.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 46.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 47.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 48.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 49.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 50.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 51.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 52.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 53.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 54.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 55.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 56.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 57.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 58.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 59.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 60.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 61.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 62.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 63.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 64.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 65.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 66.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 67.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 68.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 69.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 70.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 71.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 72.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 73.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 74.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 75.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 76.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 77.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 78.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 79.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 80.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 81.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 82.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 83.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 84.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 85.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 86.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 87.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 88.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 89.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 90.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 91.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 92.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 93.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 94.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 95.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 96.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 97.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 98.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Desafio 99.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Exercicio 109/Desafio 109.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Exercicio 109/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/Exercicio 109/moeda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/SnapInsta.io - ILLENIUM - Take You Down __ Good Things Fall Apart (Nurko &amp; William Black Remix) (64 kbps).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/WhatsApp Image 2023-02-05 at 15.09.04.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/exercicio 96.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/exercicio de classe.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/temp.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/codigos/watchvhLRVM8h557g" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Arquivo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 100.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 101.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 102.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 103.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 104.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 105.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 106.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 107/Desafio 107.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 107/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 107/moeda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 108/Desafio 108.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 108/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 108/moeda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 109/Desafio 109.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 109/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 109/moeda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 110/Desafio 110.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 110/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 110/moeda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/Desafio 111.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/utilidadesCeV/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/utilidadesCeV/dado/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/utilidadesCeV/moeda/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/Desafio 112.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/utilidadesCeV/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/utilidadesCeV/dado/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/utilidadesCeV/moeda/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 113.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 114.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 115a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 115b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 29.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 31.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 33.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 34.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 35.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 36.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 37.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 38.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 39.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 40.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 44.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 45.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 46.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 47.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 48.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 49.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 50.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 51.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 52.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 53.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 54.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 55.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 56.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 57.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 58.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 59.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 60.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 61.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 62.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 63.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 64.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 65.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 66.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 67.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 68.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 69.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 70.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 71.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 72.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 73.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 74.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 75.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 76.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 77.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 78.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 79.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 80.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 81.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 82.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 83.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 84.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 85.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 86.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 87.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 88.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 89.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 90.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 91.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 92.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 93.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 94.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 95.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 96.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 97.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 98.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 99.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/SnapInsta.io - ILLENIUM - Take You Down __ Good Things Fall Apart (Nurko &amp; William Black Remix) (64 kbps).mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/UltimoDesafio/Funcionalidades/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/exercicio de classe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/temp.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/teste" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/watchvhLRVM8h557g" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
