@@ -5,145 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcc45ff8-fd60-4b30-9a36-15affe55c182" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Arquivo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 100.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 101.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 102.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 103.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 104.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 105.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 106.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 107/Desafio 107.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 107/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 107/moeda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 108/Desafio 108.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 108/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 108/moeda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 109/Desafio 109.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 109/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 109/moeda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 110/Desafio 110.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 110/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 110/moeda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/Desafio 111.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/utilidadesCeV/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/utilidadesCeV/dado/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 111/utilidadesCeV/moeda/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/Desafio 112.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/utilidadesCeV/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/utilidadesCeV/dado/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 112/utilidadesCeV/moeda/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 113.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 114.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 115a.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 115b.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 27.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 28.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 29.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 30.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 31.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 32.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 33.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 34.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 35.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 36.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 37.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 38.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 39.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 40.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 41.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 42.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 43.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 44.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 45.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 46.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 47.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 48.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 49.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 50.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 51.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 52.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 53.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 54.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 55.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 56.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 57.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 58.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 59.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 60.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 61.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 62.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 63.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 64.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 65.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 66.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 67.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 68.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 69.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 70.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 71.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 72.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 73.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 74.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 75.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 76.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 77.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 78.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 79.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 80.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 81.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 82.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 83.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 84.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 85.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 86.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 87.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 88.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 89.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 90.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 91.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 92.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 93.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 94.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 95.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 96.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 97.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 98.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/Desafio 99.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/SnapInsta.io - ILLENIUM - Take You Down __ Good Things Fall Apart (Nurko &amp; William Black Remix) (64 kbps).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/UltimoDesafio/Funcionalidades/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/exercicio de classe.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/temp.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/teste" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python2023/DesafiosCursoEmVideoPython/watchvhLRVM8h557g" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,8 +53,8 @@
       <recent name="C:\Users\Cris\Documents\Python\Python 2023\codigos\Exercicio 107" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="Desafio 115b (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Threads4">
+    <configuration name="Atividade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,74 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafios CursoEmVideoPython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2023/Desafio Mentorama/Threads" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafios CursoEmVideoPython/Desafio 115b.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ExercicioErros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções/ExercicioErros.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ExercicioListaIP (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções/ExercicioListaIP.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ExercicioListaIP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Cris\Documents\Python\Python 2023\Desafio Mentorama\ArquivosErrosExceções\ExercicioListaIP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2023/Desafio Mentorama/Threads/Atividade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercicioExtra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Threads1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,11 +104,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2023/Desafio Mentorama/Threads" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python 2023/Desafio Mentorama/ArquivosErrosExceções/exercicioExtra.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Cris\Documents\Python\Python2023\Desafio Mentorama\Threads\Threads1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Threads2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2023/Desafio Mentorama/Threads" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2023/Desafio Mentorama/Threads/Threads2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Threads3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2023/Desafio Mentorama/Threads" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2023/Desafio Mentorama/Threads/Threads3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Threads4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python2023/Desafio Mentorama/Threads" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python2023/Desafio Mentorama/Threads/Threads4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercicioExtra" />
-        <item itemvalue="Python.ExercicioErros" />
-        <item itemvalue="Python.ExercicioListaIP (1)" />
-        <item itemvalue="Python.ExercicioListaIP" />
-        <item itemvalue="Python.ExercicioListaIP" />
+        <item itemvalue="Python.Threads4" />
+        <item itemvalue="Python.Threads3" />
+        <item itemvalue="Python.Threads2" />
+        <item itemvalue="Python.Threads1" />
+        <item itemvalue="Python.Atividade" />
       </list>
     </recent_temporary>
   </component>
